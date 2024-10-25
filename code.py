@@ -30,6 +30,7 @@
 __CIRCUITPYTHON_VERSION__ 9.1.4
 __LIB__ Library dependencies:
 adafruit_hid/
+neopixel.mpy
 __LIB_END__
 """
 
