@@ -19,11 +19,14 @@ lib/adafruit_hid/
 
 ### Download CircuitPython UF2 images From:
 https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/raspberry_pi_pico/en_GB/
+
 https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/adafruit_qtpy_rp2040/en_GB/
+
 https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/sparkfun_pro_micro_rp2040/en_GB/
 
 ### Download Lib Files
 https://github.com/adafruit/Adafruit_CircuitPython_Bundle
+
 https://github.com/adafruit/CircuitPython_Community_Bundle
 
 > Written with [StackEdit](https://stackedit.io/).
